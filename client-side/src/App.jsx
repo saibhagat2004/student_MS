@@ -8,6 +8,8 @@ import ResultList from "./components/pages/ResultList";
 import CourseList from "./components/pages/CourseList";
 import DepartmentList from "./components/pages/DepartmentList";
 
+//test
+
 const App = () => {
   return (
     <Router>
